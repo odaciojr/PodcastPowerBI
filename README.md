@@ -1,16 +1,14 @@
 # PodcastPowerBI
 Criando um Podcast dom IAs Generativas
 
-
-Criando um Podcast com IAs Generativas
-
 Ferramentas utilizadas:
 ChatGPT para criação do nome e do roteiro do podcast
 Microsoft Copilot para criação da capa do podcast
 ElevenLabs para narração text to speech
 CapCut para edição do áudio
 
-
+Arquivo do podcast criado:
+https://drive.google.com/file/d/1fkXXusuYw5jxNjfolMAa8-psT3P8Zj1w/view?usp=sharing
 
 Prompt para criação do nome do podcast
 
